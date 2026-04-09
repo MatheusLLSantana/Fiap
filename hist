@@ -1,0 +1,161 @@
+    1  apt install bless
+    2  apt update
+    3  apt install bless
+    4  clear
+    5  apt install wrexram
+    6  apt install wxhexeditor
+    7  bless
+    8  chmod +x vol.sh
+    9  ./vol.sh
+   10  vol.py --info
+   11  ls
+   12  rm -rf vol.sh
+   13  ls
+   14  oleid
+   15  cd opt
+   16  cd /opt
+   17  git clone https://github.com/decalage2/oletools.git
+   18  ls
+   19  chmod -R 777 oletools
+   20  cd oletools
+   21  ls
+   22  cd ..
+   23  pip install -U oletools[full]
+   24  oleid
+   25  pip3 install -U oletools[full]
+   26  oleid
+   27  rm -rm oletools
+   28  rm -rf oletools
+   29  cd /
+   30  oleid
+   31  olevba
+   32  cd Desktop
+   33  ls
+   34  cp -R /opt
+   35  chmod -R 777 /opt
+   36  cd /opt
+   37  ls
+   38  chmod -R 777 volatility
+   39  ls
+   40  cd volatility
+   41  ls
+   42  ./vol.py
+   43  python vol.py
+   44  ls
+   45  pip install -r requirements.txt
+   46  ./vol.py
+   47  python3 vol.py
+   48  ls
+   49  cd ..
+   50  ls
+   51  rm -rf volatility
+   52  git clone https://github.com/volatilityfoundation/volatility3.git
+   53  ls
+   54  cd volatility3
+   55  ls
+   56  pip install -r requirements.txt
+   57  pip3 install -r requirements.txt
+   58  python3 vol.py
+   59  clear
+   60  vol.py
+   61  clear
+   62  python vol.py
+   63  cd ..
+   64  chmod -R 777 volatility3
+   65  cd volatility3
+   66  python vol.py -f cridex.vmem windows.info
+   67  python vol.py -f cridex.vmem windows.netstat
+   68  python vol.py -f cridex.vmem windows.netscan
+   69  clear
+   70  python vol.py -f cridex.vmem windows.connscan
+   71  python vol.py -f cridex.vmem windows.hashdump
+   72  python3 vol.py -f cridex.vmem windows.hashdump
+   73  python3 vol.py -f cridex.vmem windows.netstat
+   74  python3 vol.py -f cridex.vmem windows.netscan
+   75  cd ..
+   76  rm -rf volatility3
+   77  ls
+   78  apt install python3-pip python-setuptools build-\nessential
+   79  apt install python3-pip python-setuptools build-essential
+   80  apt update
+   81  apt install python-setuptools
+   82  apt install python3.pip
+   83  apt install buildessential
+   84  cd volatility
+   85  ls
+   86  python3 setup.py install
+   87  python3 vol.py -vv
+   88  python3 vol.py
+   89  cd /opt
+   90  \n\n
+   91  git clone https://github.com/volatilityfoundation/volatility3.git
+   92  \n
+   93  cd volatility3
+   94  pip3 install -r requirements.txt
+   95  python3 vol.py -h
+   96  clear
+   97  python3 vol.py -vv
+   98  cd /home/kali/Desktop/volatility/volatility3/symbols
+   99  cp -R windows /opt/volatility3/volatility3/symbols
+  100  cp -R linux /opt/volatility3/volatility3/symbols
+  101  cp -R mac /opt/RklBUHtiYXNlNjR9Cg==/volatility3/volatility3/symbols
+  102  cd /opt/volatility3
+  103  python3 vol.py -f /home/kali/Desktop/cridex.vmem windows.netstat
+  104  python3 vol.py -f /home/kali/Desktop/cridex.vmem windows.hashdump
+  105  python3 vol.py -f /home/kali/Desktop/cridex.vmem windows.netscan
+  106  python3 vol.py -f /home/kali/Desktop/cridex.vmem windows.pslist
+  107  clear
+  108  python3 vol.py -f /home/kali/Desktop/memoria_S.raw windows.connscan
+  109  python3 vol.py -f /home/kali/Desktop/memoria_S.raw windows.netstat
+  110  python3 vol.py -f /home/kali/Desktop/memoria_S.raw windows.hashdump
+  111  clear
+  112  python3 vol.py -f /home/kali/Desktop/memoria_S.raw windows.netscan
+  113  clear
+  114  ls
+  115  python3 vol.py -f /home/kali/Desktop/memoria_S.raw windows.registry.hivelist
+  116  ls
+  117  cd Desktop
+  118  rar2john PROTEGIDO.rar > hash
+  119  cat hash
+  120  rar2john prot.rar > hash
+  121  cat hash
+  122  gunzip /usr/share/wordlists/rockyou.txt.gz
+  123  john --wordlist=/usr/share/wordlists/rockyou.txt hash
+  124  nano hash
+  125  cat hash | head -n1 > quebra
+  126  cat quebra
+  127  john --wordlist=/usr/share/wordlists/rockyou.txt quebra
+  128  nano hash
+  129  nano quebra
+  130  john --wordlist=/usr/share/wordlists/rockyou.txt quebra
+  131  hashcat -a 0 -m 13000 quebra /usr/share/wordlists/rockyou.txt
+  132  john --wordlist=/usr/share/wordlists/rockyou.txt quebra
+  133  ls
+  134  cat quebra
+  135  hashcat -a 0 -m 13000 quebra /usr/share/wordlists/rockyou.txt
+  136  rar2john prot.rar > hashar2john prot.rar > hash 
+  137  john --wordlist=/usr/share/wordlists/rockyou.txt quebra
+  138  wc -l /usr/share/wordlists/rockyou.txt
+  139  wc -l | /etc/passwd
+  140  cat /etc/passwd | wc -l
+  141  cat /etc/passwd | wc -c
+  142  cat /etc/passwd | wc -L
+  143  cat /etc/passwd   
+  144  cat /etc/passwd | wc  
+  145  cat /etc/passwd | wc -w
+  146  cat /etc/passwd | wc -c
+  147  cat /etc/passwd | nl
+  148  cat /etc/passwd | wc  
+  149  cat /etc/passwd | wc  -c
+  150  cat /etc/passwd | wc -L
+  151  cat /etc/passwd | cut -d":" 
+  152  cat /etc/passwd | cut -d":" -f1 
+  153  cat /etc/passwd | cut -d":" -f2
+  154  cat /etc/passwd | cut -d":" -f1
+  155  cat /etc/passwd | cut -d":" -f1 | wc 
+  156  cat /etc/passwd | cut -d":" -f1 | wc -c
+  157  exit
+  158  cat /etc/passwd | cut -d":" -f1 | wc -c
+  159  cd /var/log
+  160  ls
+  161  history
